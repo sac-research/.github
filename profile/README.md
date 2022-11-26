@@ -4,3 +4,6 @@
 
 Software System Architecture in Cloud Computing
 
+The group leadership is Professor Dr. [Yan Liu](https://users.encs.concordia.ca/~liu).
+
+We are based at Concordia University, Montreal, QC. Canada.
